@@ -16,7 +16,7 @@ The following notebooks are meant to be executed on an AWS EC2 Instance:
 - 02_check_update.ipynb	
 - 03_create_sites.ipynb
 
-For more information on how to do this, <a href = "https://medium.com/@NatalieOlivo/preserving-web-content-of-links-provided-in-a-word-doc-using-aws-services-ec2-and-s3-2c4f0cee0a26">check out my blog about it</a>. In it, I include steps for how to create IAM users, change IAM permissions, Create and Run an EC2 Instance, Configure a Jupyter Notebook on your EC2 instance, and more.
+For more information on how to do this, <a href = "https://medium.com/@NatalieOlivo/preserving-web-content-of-links-provided-in-a-word-doc-using-aws-services-ec2-and-s3-2c4f0cee0a26">check out my blog about it</a>. In it, I include steps for how to create IAM users, change IAM permissions, Create and Run an EC2 Instance, Configure a Jupyter Notebook on your EC2 instance, and more. Since the breadth of this blog is great and rather specific, I've created the `Python_Blogs` folder to contain more detailed examples and explanations of what all is covered.
 
 The `Python_Blogs` folder contains a series of blogs that dive into the code contained in the above mentioned notebooks.
 So far, they include the following:
