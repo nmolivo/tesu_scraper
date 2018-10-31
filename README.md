@@ -20,4 +20,4 @@ For more information on how to do this, <a href = "https://medium.com/@NatalieOl
 
 The `Python_Blogs` folder contains a series of blogs that dive into the code contained in the above mentioned notebooks.
 So far, they include the following:
-- <a href = "https://github.com/nmolivo/tesu_scraper/blob/master/Python_Blogs/01_extract_from_MSWord.ipynb">01_extract_from_MSWord.ipynb</a>, a notebook that covers How to Extract Information from MS Word Documents (<a hfef = "https://medium.com/@NatalieOlivo/how-to-extract-data-from-ms-word-documents-using-python-ed3fbb48c122">Blog Link</a>)
+- <a href = "https://github.com/nmolivo/tesu_scraper/blob/master/Python_Blogs/01_extract_from_MSWord.ipynb">01_extract_from_MSWord.ipynb</a>, a notebook that covers How to Extract Information from MS Word Documents (<a href = "https://medium.com/@NatalieOlivo/how-to-extract-data-from-ms-word-documents-using-python-ed3fbb48c122">Blog Link</a>)
